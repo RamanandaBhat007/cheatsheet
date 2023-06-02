@@ -40,6 +40,11 @@ table {
     font-weight: bolder;
   }
 
+
+  #img, #a, #audio, #body, #div, #head{
+    background-color:hsla(300,40%,2%,0.2);
+  }
+
  .paragraph-tag{
     font-size: 30px;
     margin: 10px 0 0 20px;
